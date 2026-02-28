@@ -18,3 +18,6 @@ Always learning, always building.
 ● 🤝 Open To Collaborate: Open-source Game Development (Unity, Godot, SDL3)
 
 ● 💬 Ask Me About: Anime • Game Design • Linux Ecosystem
+
+# 📫 Connect With Me
+[Repo](https://discord.com/users/dhruv.exe_e)
