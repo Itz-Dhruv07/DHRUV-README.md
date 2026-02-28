@@ -20,4 +20,7 @@ Always learning, always building.
 ● 💬 Ask Me About: Anime • Game Design • Linux Ecosystem
 
 # 📫 Connect With Me
-[Repo](https://discord.com/users/dhruv.exe_e)
+## Discord 
+[Dhruv](https://discord.com/users/dhruv.exe_e)
+## Gmail 
+workwithdhruvdev@gmail.com 
